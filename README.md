@@ -1,5 +1,3 @@
-# Calculator-Web-App
-A responsive Calculator web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a clean and user-friendly interface.
 # Calculator Web App
 
 A simple and responsive calculator built with **HTML**, **CSS**, and **JavaScript**. The application is designed to perform basic arithmetic operations through a clean and interactive user interface. It is a beginner-friendly project that demonstrates the use of JavaScript for handling user interactions and performing calculations.
